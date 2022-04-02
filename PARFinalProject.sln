@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PARFinalProject", "PARFinalProject\PARFinalProject.csproj", "{83E7D395-8245-488E-AF8F-590D1F02A398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parslib", "parslib\parslib.csproj", "{B6CD465B-8E7C-45D3-80FD-8E4C719708D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{DA0CEAE4-A39E-44A9-BCEB-88CBD5B4B5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E7D395-8245-488E-AF8F-590D1F02A398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E7D395-8245-488E-AF8F-590D1F02A398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E7D395-8245-488E-AF8F-590D1F02A398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E7D395-8245-488E-AF8F-590D1F02A398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6CD465B-8E7C-45D3-80FD-8E4C719708D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CD465B-8E7C-45D3-80FD-8E4C719708D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CD465B-8E7C-45D3-80FD-8E4C719708D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CD465B-8E7C-45D3-80FD-8E4C719708D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0CEAE4-A39E-44A9-BCEB-88CBD5B4B5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0CEAE4-A39E-44A9-BCEB-88CBD5B4B5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0CEAE4-A39E-44A9-BCEB-88CBD5B4B5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0CEAE4-A39E-44A9-BCEB-88CBD5B4B5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
