@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PARFinalProject", "PARFinalProject\PARFinalProject.csproj", "{83E7D395-8245-488E-AF8F-590D1F02A398}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parslib", "parslib\parslib.csproj", "{B6CD465B-8E7C-45D3-80FD-8E4C719708D1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{DA0CEAE4-A39E-44A9-BCEB-88CBD5B4B5A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "domain", "domain\domain.csproj", "{21E13C55-353C-45DA-A122-6EEE89D24F5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +30,9 @@ Global
 		{DA0CEAE4-A39E-44A9-BCEB-88CBD5B4B5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA0CEAE4-A39E-44A9-BCEB-88CBD5B4B5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA0CEAE4-A39E-44A9-BCEB-88CBD5B4B5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E13C55-353C-45DA-A122-6EEE89D24F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E13C55-353C-45DA-A122-6EEE89D24F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E13C55-353C-45DA-A122-6EEE89D24F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E13C55-353C-45DA-A122-6EEE89D24F5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

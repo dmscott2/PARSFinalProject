@@ -1,6 +1,6 @@
 using System;
 
-namespace parslib.Models
+namespace domain.Models
 {
     public class User{
         public int UserID{get; set;}

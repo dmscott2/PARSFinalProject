@@ -1,5 +1,5 @@
 using System;
-namespace parslib.Models
+namespace domain.Models
 {
     public class Measure{
         public int MeasureID{get; set;}

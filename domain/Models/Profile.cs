@@ -1,4 +1,4 @@
-namespace parslib.Models;
+namespace domain.Models;
 
 public abstract class Profile 
 {

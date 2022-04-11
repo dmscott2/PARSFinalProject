@@ -3,7 +3,7 @@ using System.Xml;
 
 // using Microsoft.AspNetCore.WebUtilities;
 
-namespace parslib;
+namespace domain.Models;
 
 public abstract class FCARHelper
 {

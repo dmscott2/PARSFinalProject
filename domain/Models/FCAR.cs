@@ -1,7 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace parslib;
-
+namespace domain.Models;
 
 
 // public enum CourseName
@@ -29,15 +28,15 @@ namespace parslib;
 //    Jeremiah_Roussell
 // }
 
-public class CourseAssessment
-{
-    public int CourseId { get; set; }
-    public string? CourseCode { get; set; }
-    public string? CourseName{ get; set; }
-    public Semester CourseSemester{ get; set; }
-    public int Academic_Year { get; set; }
-    public Instructor? CourseInstructor { get; set; }
-    public Instructor? CourseCoordinator { get; set; }
-}
+// public class CourseAssessment
+// {
+//     public int CourseId { get; set; }
+//     public string? CourseCode { get; set; }
+//     public string? CourseName{ get; set; }
+//     public Semester CourseSemester{ get; set; }
+//     public int Academic_Year { get; set; }
+//     public Instructor? CourseInstructor { get; set; }
+//     public Instructor? CourseCoordinator { get; set; }
+// }
 
 

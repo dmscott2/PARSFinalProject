@@ -1,3 +1,5 @@
+namespace domain.Models;
+
 public class Instructor
 {
     public int InstructorId { get; set; }

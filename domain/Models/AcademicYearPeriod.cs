@@ -1,3 +1,5 @@
+namespace domain.Models;
+
 public enum Semester
 {
     FALL,

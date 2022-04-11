@@ -1,6 +1,6 @@
 using System;
 
-namespace parslib.Models;
+namespace domain.Models;
 
 public class CourseLearningOutcome{
     public int CourseLearningOutcomeId{get; set;}
