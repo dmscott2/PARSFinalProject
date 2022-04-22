@@ -1,8 +1,8 @@
 namespace domain.Models;
 
-public class Instructor
+public class CourseCoordinator
 {
-    public int InstructorId { get; set; }
+    public int CoordinatorId { get; set; }
     public string? FirstName { get; set; }
     public string? LastName { get; set; }
     public List<Course>? Courses {get; set;} 

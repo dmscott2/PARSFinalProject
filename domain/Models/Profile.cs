@@ -8,7 +8,7 @@ public abstract class Profile
 }
 
 public class InstructorProfile : Profile { }
-
+public class CourseCoordinatorProfile : Profile { }
 public class AdministratorProfile : Profile{ }
 
 public class UnitAdministratorProfile : Profile{ }

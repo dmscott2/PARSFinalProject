@@ -27,7 +27,7 @@ public class FCARHelperFixture : IDisposable
             CourseName = "CIDM4390",
             Section = 70,
             Semester = "Fall",
-            Academic_Year = 2021,
+            Year = 2021,
             Course_Status = "Done",
 
         },
@@ -37,7 +37,7 @@ public class FCARHelperFixture : IDisposable
             CourseName = "CIDM3350",
             Section = 01,
             Semester = "Fall",
-            Academic_Year = 2021,
+            Year = 2021,
             Course_Status = "Done",
 
         },
@@ -56,7 +56,7 @@ public class FCARHelperFixture : IDisposable
                         CourseName = "CIDM3350",
                         Section = 01,
                         Semester = "Fall",
-                        Academic_Year = 2021,
+                        Year = 2021,
                         Course_Status = "Done",
 
                     }
